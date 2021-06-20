@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+.container {
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.menu_list li{
+ 
+    font-size: 16px;
+    margin: 10px;
+}
+.menu_list li a{
+    display: block;
+    font-size: 16px;
+    margin: 10px;
+}
